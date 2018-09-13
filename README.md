@@ -1,4 +1,5 @@
 # GroceryProject
 CS 30 Main Project
 
-This is an example change.
+H3 Assumption:
+-Objects are in pristine condition.
