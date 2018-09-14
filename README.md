@@ -7,7 +7,7 @@ CS 30 Main Project
 - Objects are in pristine condition.
 
 ---
-###What I would use
+### What I would use
 
 #### Will use array to prioritize which layer objects will go.
 #### Use random inventory size using randInt for a random stock.
