@@ -9,7 +9,7 @@ CS 30 Main Project
 ---
 ### What I would use
 
-#### Will use array to prioritize which layer objects will go.
+#### ~Will use array to prioritize which layer objects will go.
 #### Use random inventory size using randInt for a random stock.
 #### When stock is taken, will reduce displayed inventory
 #### Have set price for each item<
