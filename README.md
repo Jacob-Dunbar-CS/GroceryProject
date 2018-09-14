@@ -10,4 +10,4 @@ CS 30 Main Project
 <h4>When stock is taken, will reduce displayed inventory</h>
 <h4>Have set price for each item</h>
 <h4>Find total cost of item by multiplying price by taken inventory</h>
-<h4>Add all prices together to add total</h>
+<h4>Add all prices together to find total</h>
